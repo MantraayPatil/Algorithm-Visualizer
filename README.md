@@ -41,14 +41,6 @@ This project requires the following Python package:
 - **pygame**
 
 To install the required package, you can use the `requirements.txt` file included in the repository. If you don't have pip installed, you will need to install it first. 
-1.  You can usually install pip by ensuring you have Python installed and running:
-   ```bash
-   python -m ensurepip --upgrade
-
-2. Once pip is installed, you can install the dependencies with: 
-    Execute the main script to start the visualiser:
-   ```bash
-   pip install -r requirements.txt
 
 ## Usage
 
